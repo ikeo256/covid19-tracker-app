@@ -67,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # covid19-tracker-app
+
+npm install --save axis react-charts-2 react-countup classnames
+npm install --save @material-ui/core
+npm install --save chart.js
